@@ -8,4 +8,4 @@ Alunos: Andressa C. M. Costa,
 
 ### **Método de decomposição SVD para tratamento de ruído**
 
-Este repositório contém o código usado no projeto final da matéria Álgebra Linear cmputacional do segundo semestre da Ilum - Escola de Ciência. 
+Este repositório contém o código (notebook "projeto_final") usado no projeto final da matéria Álgebra Linear cmputacional do segundo semestre da Ilum - Escola de Ciência. 
